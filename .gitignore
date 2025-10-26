@@ -1,0 +1,8 @@
+venv/
+.env
+
+__pycache__/
+
+node_modules/
+
+speechtotxt-465511-91a4a9ff3d0f.json
